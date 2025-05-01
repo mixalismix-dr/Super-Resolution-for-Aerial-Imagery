@@ -1,0 +1,45 @@
+Training Details:
+-----------------
+Time Started: 2025-04-17 14:02:34
+Time Finished: 2025-04-17 14:02:59
+Training Duration: 0h 0m 25s
+Total Samples Used: 500
+Batch Size: 25
+Fine-tuned Epochs: 1, Pretrained Epochs: 2
+Patch Size: 24
+LR Path: train_LR1
+GT Path: train_HR1
+Fine Tuning: False
+Hostname: MSI
+-----------------
+
+Training Details:
+-----------------
+Time Started: 2025-04-17 14:03:53
+Time Finished: 2025-04-17 14:42:00
+Training Duration: 0h 38m 6s
+Total Samples Used: 500
+Batch Size: 25
+Fine-tuned Epochs: 100, Pretrained Epochs: 200
+Patch Size: 24
+LR Path: train_LR1
+GT Path: train_HR1
+Fine Tuning: False
+Hostname: MSI
+-----------------
+
+Training Details:
+-----------------
+Time Started: 2025-04-17 16:52:44
+Time Finished: 2025-04-17 18:41:08
+Training Duration: 1h 48m 24s
+Total Samples Used: 500
+Batch Size: 25
+Fine-tuned Epochs: 200, Pretrained Epochs: 800
+Patch Size: 24
+LR Path: train_LR1
+GT Path: train_HR1
+Fine Tuning: False
+Hostname: MSI
+-----------------
+
